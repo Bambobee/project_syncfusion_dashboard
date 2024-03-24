@@ -1,9 +1,9 @@
 import React from 'react'
 
-const charts = () => {
+const Chat = () => {
   return (
     <div>charts</div>
   )
 }
 
-export default charts
+export default Chat

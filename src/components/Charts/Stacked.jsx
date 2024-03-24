@@ -1,9 +1,9 @@
 import React from 'react'
 
-const StackedChart = () => {
+const Stacked = () => {
   return (
     <div>StackedChart</div>
   )
 }
 
-export default StackedChart
+export default Stacked

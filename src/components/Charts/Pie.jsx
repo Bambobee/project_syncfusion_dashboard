@@ -1,9 +1,9 @@
 import React from 'react'
 
-const PieChart = () => {
+const Pie = () => {
   return (
     <div>PieChart</div>
   )
 }
 
-export default PieChart
+export default Pie
